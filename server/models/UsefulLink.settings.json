@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "useful_links",
+  "info": {
+    "name": "Useful Link",
+    "description": "Links úteis para referência rápida"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    }
+  }
+}

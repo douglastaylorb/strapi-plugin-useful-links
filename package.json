@@ -1,0 +1,15 @@
+{
+  "name": "strapi-plugin-useful-links",
+  "version": "1.0.0",
+  "description": "A Strapi plugin to manage useful links",
+  "main": "server/bootstrap.js",
+  "scripts": {},
+  "keywords": [
+    "strapi",
+    "plugin",
+    "links"
+  ],
+  "author": "Douglas",
+  "license": "MIT",
+  "dependencies": {}
+}
